@@ -1,2 +1,4 @@
-# Data-Analytics-Dashboard
-Coffee Shop Sales Dashboard (Excel): Built an interactive Excel dashboard analyzing 150K+ transactions (Jan–Jun 2023) from three NYC locations. Applied data profiling, calculated fields, PivotTables, and PivotCharts with slicers to reveal sales trends by time and location for operational insights.
+# Coffee Shop Sales Dashboard (Excel)
+## Project Objective
+Analyze and visualize coffee shop sales data from three NYC locations (Jan–Jun 2023) to identify trends, patterns, and opportunities for operational improvements.
+Dataset Used
